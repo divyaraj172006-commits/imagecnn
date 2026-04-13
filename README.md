@@ -1,3 +1,1 @@
-# image-classification-using-cnn
-
-added by divya 
+This is from divya branch
